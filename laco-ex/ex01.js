@@ -1,7 +1,4 @@
-git init
-git add . -> all ( todos os arquivos)
-git add ex01.js -> specific ( arquivo específico)
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/thiago-rferreira/lista-for-exemplo.git
-git push -u origin main
+//Imprimir números de 1 a 10
+for (let i = 1; i<=10; i++){
+    console.log(i)
+}
